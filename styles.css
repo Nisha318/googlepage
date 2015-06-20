@@ -1,0 +1,41 @@
+body{
+  font-family: Helvetica, sans-serif;
+}
+
+.whitespace{
+  height: 70px;
+  }
+.logo-container{
+  float: middle;
+  line-height: 300px;
+  padding-left: 450px;
+  padding-bottom: 5px;
+}
+.logo-container img{
+  width: 400px;
+  height: 200px;
+  vertical-align: middle;
+  
+}
+
+.search-container{
+   float: top;
+  line-height: 20px;
+  padding-left: 575px;
+  padding-top: 5px;
+}
+
+.search-buttons{
+float: middle;
+  line-height: 20px;
+  padding-left: 550px;
+  padding-top: 20px
+
+}
+
+.footer-text{
+  font-family: arial;
+  color: red;
+  text-align: center;
+  padding-top: 10px;
+}
